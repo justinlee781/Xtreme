@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Box, IconButton, Menu, MenuItem } from '@mui/material';
-import useMediaQuery from '@mui/material/useMediaQuery';
+//import useMediaQuery from '@mui/material/useMediaQuery';//
 import MenuIcon from '@mui/icons-material/Menu';
 
 import home1 from '../assets/home5.jpg';
