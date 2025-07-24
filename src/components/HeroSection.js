@@ -7,7 +7,7 @@ import home1 from '../assets/home5.jpg';
 
 const HeroSection = () => {
   const [anchorEl, setAnchorEl] = useState(null);
-  const isMobile = useMediaQuery('(max-width: 600px)');
+  // const isMobile = useMediaQuery('(max-width: 600px)');//
 
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
